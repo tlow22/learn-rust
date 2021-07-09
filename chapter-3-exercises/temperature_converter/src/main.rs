@@ -1,5 +1,6 @@
 use std::io;
 
+// program to convert temperature between Fahrenheit/Celsius. 
 fn main() {
     // prompt user for temperature 
     println!("Please specify temperature value"); 
