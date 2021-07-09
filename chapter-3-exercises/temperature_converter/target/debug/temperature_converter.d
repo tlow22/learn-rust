@@ -1,1 +1,0 @@
-C:\Users\tsong\source\repos\learn-rust\chapter-3-exercises\temperature_converter\target\debug\temperature_converter.exe: C:\Users\tsong\source\repos\learn-rust\chapter-3-exercises\temperature_converter\src\main.rs
